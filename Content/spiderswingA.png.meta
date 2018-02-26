@@ -1,0 +1,20 @@
+ImageContent = 
+{
+	SpriteSourceBuilder = 
+	{
+		string Name = "spiderswingA",
+		uint64 ResourceId = 57b7ad08fb0a1c94,
+		uint64 AtlasId = 5274cf95e4a661fd,
+		uint FrameSizeX = 346,
+		uint FrameSizeY = 495,
+		uint FrameCount = 40,
+		float FrameDelay = 0.111111112,
+		float OriginX = 173,
+		float OriginY = 247,
+		float PixelsPerUnit = 64,
+		bool Smoothing = false,
+		bool Looping = true,
+		Vec4 Slices = [0, 0, 0, 0],
+		SpriteFill Fill = Stretch,
+	},
+},

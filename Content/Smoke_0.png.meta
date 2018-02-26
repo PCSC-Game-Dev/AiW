@@ -1,0 +1,20 @@
+ImageContent = 
+{
+	SpriteSourceBuilder = 
+	{
+		string Name = "Smoke",
+		uint64 ResourceId = 579762af5510fd9c,
+		uint64 AtlasId = 5274cf95e4a661fd,
+		uint FrameSizeX = 62,
+		uint FrameSizeY = 112,
+		uint FrameCount = 5,
+		float FrameDelay = 0.5,
+		float OriginX = 31,
+		float OriginY = 56,
+		float PixelsPerUnit = 64,
+		bool Smoothing = false,
+		bool Looping = true,
+		Vec4 Slices = [0, 0, 0, 0],
+		SpriteFill Fill = Stretch,
+	},
+},

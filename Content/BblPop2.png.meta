@@ -1,0 +1,20 @@
+ImageContent = 
+{
+	SpriteSourceBuilder = 
+	{
+		string Name = "BblPop2",
+		uint64 ResourceId = 57e4587a6320f28d,
+		uint64 AtlasId = 5274cf95e4a661fd,
+		uint FrameSizeX = 693,
+		uint FrameSizeY = 713,
+		uint FrameCount = 20,
+		float FrameDelay = 0.0666666701,
+		float OriginX = 346,
+		float OriginY = 356,
+		float PixelsPerUnit = 64,
+		bool Smoothing = false,
+		bool Looping = true,
+		Vec4 Slices = [0, 0, 0, 0],
+		SpriteFill Fill = Stretch,
+	},
+},

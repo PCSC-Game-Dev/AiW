@@ -1,0 +1,8 @@
+TextContent = 
+{
+	ZilchScriptBuilder = 
+	{
+		string Name = "DustBunnyMovement",
+		uint64 ResourceId = 578a1b4b2fb0d512,
+	},
+},

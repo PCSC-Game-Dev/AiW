@@ -1,0 +1,20 @@
+ImageContent = 
+{
+	SpriteSourceBuilder = 
+	{
+		string Name = "Flame",
+		uint64 ResourceId = 579778883c7b11d0,
+		uint64 AtlasId = 5274cf95e4a661fd,
+		uint FrameSizeX = 62,
+		uint FrameSizeY = 112,
+		uint FrameCount = 4,
+		float FrameDelay = 0.166666672,
+		float OriginX = 31,
+		float OriginY = 56,
+		float PixelsPerUnit = 64,
+		bool Smoothing = false,
+		bool Looping = true,
+		Vec4 Slices = [0, 0, 0, 0],
+		SpriteFill Fill = Stretch,
+	},
+},

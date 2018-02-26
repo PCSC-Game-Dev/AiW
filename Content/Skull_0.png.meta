@@ -1,0 +1,20 @@
+ImageContent = 
+{
+	SpriteSourceBuilder = 
+	{
+		string Name = "Skull",
+		uint64 ResourceId = 57f1a06d9617bb04,
+		uint64 AtlasId = 5274cf95e4a661fd,
+		uint FrameSizeX = 203,
+		uint FrameSizeY = 216,
+		uint FrameCount = 3,
+		float FrameDelay = 0.166666672,
+		float OriginX = 101,
+		float OriginY = 108,
+		float PixelsPerUnit = 64,
+		bool Smoothing = false,
+		bool Looping = true,
+		Vec4 Slices = [0, 0, 0, 0],
+		SpriteFill Fill = Stretch,
+	},
+},

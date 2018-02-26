@@ -1,0 +1,20 @@
+ImageContent = 
+{
+	SpriteSourceBuilder = 
+	{
+		string Name = "Reaper",
+		uint64 ResourceId = 57f1a3fb73cc8471,
+		uint64 AtlasId = 5274cf95e4a661fd,
+		uint FrameSizeX = 1117,
+		uint FrameSizeY = 1992,
+		uint FrameCount = 3,
+		float FrameDelay = 0.25,
+		float OriginX = 558,
+		float OriginY = 996,
+		float PixelsPerUnit = 64,
+		bool Smoothing = false,
+		bool Looping = true,
+		Vec4 Slices = [0, 0, 0, 0],
+		SpriteFill Fill = Stretch,
+	},
+},

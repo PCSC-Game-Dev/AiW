@@ -1,0 +1,26 @@
+// Lvl1:
+// health bars??
+// weapon Pick Up - needle
+// Flame on collision - Destroy Player
+// DustBunny on collision - Destroy player/subtract health
+// Player attack - destroy enemy
+// spider - stop drop animation when completed -- start web animation when attacking -- destroy player on collision 
+// ?clock pendulum on collision - destroy player?
+// pill 1 pick up -- grow player
+// ?table hole opens on collision with grown player?
+// dustBunny(on chair) & (on floor) -- pace distance
+//destroy player when falls through "floor hole"
+//Boss Reaper - attacks?? -- Health ---- skulls?? - float? --- Drop key when defeated
+//Door - to Lvl 2
+
+// Lvl 2:
+//Door -- "Locked"
+//Camera -- Fix to show more of the upper part of Lvl?
+// pill (poisoned) -- destroy player?? or subtract health??
+//Water - on collison Sink/drownd animation* -- destroy player
+// Pill 2 - Shrink player & change player controls(jump distance speed ect.) & zoom camra
+// Vines - swing from vine to vine to croos Water --- some break
+// Muck - destroy player on collison
+// muck Bbls - spawn in muck, float up and Start pop animation --- random sizes
+///
+

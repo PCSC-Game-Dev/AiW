@@ -1,0 +1,7 @@
+ContentLibrary = 
+{
+	string Name = "AiW",
+	uint64 LibraryId = 56772e1391e0879b,
+	string SourceControlType = "",
+	bool ReadOnly = false,
+},
